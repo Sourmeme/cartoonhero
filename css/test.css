@@ -1,0 +1,25 @@
+<title>Style test</title>
+<style type="text/css">
+h1
+{
+	font-size: 30px;
+	color: salmon;
+}
+h2
+{
+	font-size: 20px;
+	color: red;
+}
+.big
+{
+	font-size: 60px;
+}
+h1 span
+{
+	color: violet;
+}
+body
+{
+	background-color: yellow;
+}
+</style>
